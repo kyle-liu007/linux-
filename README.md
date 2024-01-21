@@ -275,7 +275,7 @@ if [ $1 = 4 ]; then
 
     linux_version="4.19.305"
 
-else
+elif [ $1 = 5 ]; then
 
     inux_version="5.15.147"
 
