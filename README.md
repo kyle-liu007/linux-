@@ -1,4 +1,4 @@
-# linux-
+# linux-driver-module-develop_environment_establish
 使用wsl2+vscode搭建一个可以实现根据编译配置进行函数跳转以及自动补全的linux驱动(模块)开发环境，可以In-tree，也可以Out-of-tree
 本文介绍的开发环境可以实现内核开发、驱动（模块）out-of-tree开发，实现函数跳转以及自动补全功能
 # 一、wsl2搭建linux虚拟机
